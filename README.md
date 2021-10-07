@@ -1,2 +1,0 @@
-# tuaku
-script download
